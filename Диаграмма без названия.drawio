@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:21:25.857Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.1.1215 Yowser/2.5 Safari/537.36" etag="YAZ_3vW9j7i_1xqogpZm" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T10:19:25.684Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.1.1215 Yowser/2.5 Safari/537.36" etag="BVQQs6cKXXa-95znqDqw" version="21.6.8" type="github">
   <diagram name="Страница — 1" id="vl9NQDa3R6JJgigoREqY">
     <mxGraphModel dx="2212" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,36 @@
           <mxGeometry x="-340" y="320" width="1180" height="590" as="geometry" />
         </mxCell>
         <mxCell id="ihIQ38edl1kiZpk5wyoq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="225" width="160" height="780" as="geometry" />
+          <mxGeometry x="1120" y="600" width="160" height="360" as="geometry" />
         </mxCell>
         <mxCell id="ihIQ38edl1kiZpk5wyoq-6" value="СВЭМ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="225" width="80" height="30" as="geometry" />
+          <mxGeometry x="1120" y="605" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ihIQ38edl1kiZpk5wyoq-7" value="Внешние системы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="255" width="80" height="30" as="geometry" />
+          <mxGeometry x="1120" y="635" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ihIQ38edl1kiZpk5wyoq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihIQ38edl1kiZpk5wyoq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihIQ38edl1kiZpk5wyoq-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ihIQ38edl1kiZpk5wyoq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ihIQ38edl1kiZpk5wyoq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ihIQ38edl1kiZpk5wyoq-19" value="Внешняя Система" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ihIQ38edl1kiZpk5wyoq-20" value="Внешняя Система" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ihIQ38edl1kiZpk5wyoq-21" value="Внешняя Система" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
